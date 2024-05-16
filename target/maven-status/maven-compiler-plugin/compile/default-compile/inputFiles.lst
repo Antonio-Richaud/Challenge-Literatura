@@ -1,0 +1,13 @@
+/Users/antonio-richaud/Documents/GitHub/Challenge-Literatura/src/main/java/com/challengeliteratura/challengeliteratura/model/Libro.java
+/Users/antonio-richaud/Documents/GitHub/Challenge-Literatura/src/main/java/com/challengeliteratura/challengeliteratura/ChallengeLiteraturaApplication.java
+/Users/antonio-richaud/Documents/GitHub/Challenge-Literatura/src/main/java/com/challengeliteratura/challengeliteratura/client/ClienteLiteratura.java
+/Users/antonio-richaud/Documents/GitHub/Challenge-Literatura/src/main/java/com/challengeliteratura/challengeliteratura/mapper/IConvierteDatos.java
+/Users/antonio-richaud/Documents/GitHub/Challenge-Literatura/src/main/java/com/challengeliteratura/challengeliteratura/service/ConsumoAPI.java
+/Users/antonio-richaud/Documents/GitHub/Challenge-Literatura/src/main/java/com/challengeliteratura/challengeliteratura/model/Respuesta.java
+/Users/antonio-richaud/Documents/GitHub/Challenge-Literatura/src/main/java/com/challengeliteratura/challengeliteratura/repository/LibroRepository.java
+/Users/antonio-richaud/Documents/GitHub/Challenge-Literatura/src/main/java/com/challengeliteratura/challengeliteratura/mapper/ConvierteDatos.java
+/Users/antonio-richaud/Documents/GitHub/Challenge-Literatura/src/main/java/com/challengeliteratura/challengeliteratura/repository/AutorRepository.java
+/Users/antonio-richaud/Documents/GitHub/Challenge-Literatura/src/main/java/com/challengeliteratura/challengeliteratura/model/Autor.java
+/Users/antonio-richaud/Documents/GitHub/Challenge-Literatura/src/main/java/com/challengeliteratura/challengeliteratura/entity/LibroEntity.java
+/Users/antonio-richaud/Documents/GitHub/Challenge-Literatura/src/main/java/com/challengeliteratura/challengeliteratura/entity/AutorEntity.java
+/Users/antonio-richaud/Documents/GitHub/Challenge-Literatura/src/main/java/com/challengeliteratura/challengeliteratura/util/CadenasUtil.java
